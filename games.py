@@ -2,7 +2,7 @@ from pygame import *
 
 
 window = display.set_mode((700, 500))
-display.set_caption("Football Mini Game")
+display.set_caption("Football-Mini-Game")
 background = transform.scale(image.load("Field.jpg"), (700, 500))
 
 
